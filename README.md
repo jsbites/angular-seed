@@ -15,6 +15,11 @@
 
 You can also `npm run build` to bunld the app into the `public` folder.
 
+
+----
+
+Old README is below this line.
+
 ----
 
 # `angular-seed` — the seed for AngularJS apps
