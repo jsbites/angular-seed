@@ -1,3 +1,13 @@
+
+
+> **Notice**
+>
+> Forked the **Angular Seed** repository to add **webpack** and **ES.next** support.
+>
+> Leaving the original **README** intact below; however, some of the instructions will probably **not** work in this version of the repo, since we will be using **Webpack** instead of **bower** and **gulp**.
+>
+> I’ll update the README whenever I find time.
+
 # `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
