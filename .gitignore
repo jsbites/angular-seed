@@ -6,3 +6,13 @@ tmp
 .DS_Store
 .idea
 *.swp
+
+public/css/bundles/
+
+public/js/bundles/
+
+public/index\.html
+
+public/view1/view1\.html
+
+public/view2/view2\.html

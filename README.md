@@ -8,6 +8,15 @@
 >
 > I’ll update the README whenever I find time.
 
+## Quick Instructions
+
+* `yarn install`
+* `npm start`
+
+You can also `npm run build` to bunld the app into the `public` folder.
+
+----
+
 # `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it

@@ -1,0 +1,46 @@
+/*
+ *
+ */
+
+/* app css stylesheet */
+
+.menu {
+  list-style: none;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+  border-bottom: 1px #AAAAAA solid;
+}
+
+.menu:before {
+  content: "[ ";
+}
+
+.menu:after {
+  content: " ]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li + li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+a {
+    color: tomato;
+}
+
+a:hover {
+    background: tomato;
+    color: #fff
+}
+
+.partial1 {
+    background: #ccaaaa;
+}
+
+.partial2 {
+    background: #aaccaa;
+}
