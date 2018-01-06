@@ -10,27 +10,6 @@ Thanks,
 
 Volkan.
 
-## Wanna Help?
-
-Any help is more than appreciated.
-
-If you want to contribute to the source code, **fork this repository** and **create a pull request**.
-
-> In lieu of a formal style guide, take care to maintain the existing coding style.
-
-Also, don’t forget to add unit tests for any new or changed functionality.
-
-If you want to report a bug; or share a comment or suggestion, [file an issue](https://github.com/jsbites/babil/issues/new).
-
-## I’ve Found a Bug; I Have an Idea
-
-[For bug reports and suggestions, please file an issue](https://github.com/jsbites/babil/issues/new).
-
-## Contact Information
-
-* **Project Maintainer**: [Volkan Özçelik](https://volkan.io/)
-* **Project Website**: [bytesized.tv](https://bytesized.tv/)
-
 ## License
 
 MIT-licensed. — [See the license file for details](LICENSE.md).
